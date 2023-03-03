@@ -41,7 +41,7 @@ async def start_(client: Client, message: Message):
 ┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀʙʜɪᴍᴀɴʏᴜ ʀᴀɴᴀᴡᴀᴛ](https://t.me/VeNom_HaiN_HuM)
 ┣★ ᴜᴘᴅᴀᴛᴇs : [ᴀʟɪsʜᴀ sᴇʀᴠᴇʀ](https://t.me/FriendshipWorldGroup)
 ┣★ sᴜᴘᴘᴏʀᴛ : [sʜᴀʏᴀʀɪ ᴄʜᴀɴɴᴇʟ](https://t.me/Sad_shayari_lovers)
-┣★ sᴏᴜʀᴄᴇ  : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://github.com/Team-Alisha/AlishaMusic)
+┣★ sᴏᴜʀᴄᴇ  : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://github.com/Team-Alisha/AlishaPlayer)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
